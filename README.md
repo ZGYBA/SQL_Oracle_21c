@@ -1,4 +1,4 @@
-# SQL_Oracle_21c
+# SQL_Oracle_database
 I developed knowledge of object-relational database management system software, relational database design including
 normalization, design implementation in an enterprise class dbms and writing SQL queries. I installed Oracle, then created users,
 assigned basic privileges, created tables, inserted data, specified indexes and wrote basic to intermediate SQL queries. The queries
